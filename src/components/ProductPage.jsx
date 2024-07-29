@@ -2,6 +2,7 @@ import React from 'react';
 import ProductCard from './ProductCard';
 import ProductDetails from './ProductDetails';
 import ReviewList from './ReviewList';
+import './ProductPage.css';
 
 const ProductPage = () => {
   const product = {
